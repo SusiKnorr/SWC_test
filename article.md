@@ -4,3 +4,6 @@
 
 ## Introduction
 
+## Results
+
+## Material and Methods
